@@ -6,6 +6,8 @@
 
 [Markdown Preview를 실시간으로 볼 수 있는 Extension](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)이 있었다.
 
+![](./images/preview.png)
+
 VS Code는 역시 놀라워.
 
 Visual Studio도 Extension 동기화가 더 편해졌으면 좋겠다.
