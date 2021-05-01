@@ -4,7 +4,7 @@
 
 서점에 들어서서 책을 C# 책을 고르던 중 우연히 발견한 책.
 
-[이것이 C#이다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=152194373) 
+[이것이 C#이다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=260230941) 
 
 그 전에도 서점에 가면 C# 책을 살펴보곤 했는데
 
