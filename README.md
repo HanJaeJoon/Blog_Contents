@@ -14,8 +14,6 @@ https://jjester.tistory.com/
 
 - [3_가비지_콜렉터](./C%23/3_%EA%B0%80%EB%B9%84%EC%A7%80_%EC%BD%9C%EB%A0%89%ED%84%B0/README.md)
 
-### .
-
 ### 생각정리
 
 ### 개발
