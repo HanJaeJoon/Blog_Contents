@@ -40,8 +40,7 @@ def main():
         if directory == '.' and len(files) == 1:
             content += "### [{}]({})\n".format(category, parse.quote(os.path.join(root, files[0])))
             continue
-        
-        if directory not in directories:
+        elif directory not in directories:
             content += "### {}\n".format(directory)
             directories.append(directory)
 
