@@ -29,7 +29,7 @@ def main():
                     pass
             continue
 
-        category = os.path.dir(root)
+        category = os.path.basename(root)
 
         content += "### {}\n\n".format(category)
 
