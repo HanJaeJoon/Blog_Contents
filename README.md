@@ -6,7 +6,7 @@ https://jjester.tistory.com/
 블로그 글 저장소
 
 ---
-### [C#](./C%23/C%23)
+### [C#](./C%23/README.md)
 ### C#
 - [1_프로그래밍_언어](./C%23/1_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%96%B8%EC%96%B4/README.md)
 
@@ -14,7 +14,8 @@ https://jjester.tistory.com/
 
 - [3_가비지_콜렉터](./C%23/3_%EA%B0%80%EB%B9%84%EC%A7%80_%EC%BD%9C%EB%A0%89%ED%84%B0/README.md)
 
-### [생각정리](./%EC%83%9D%EA%B0%81%EC%A0%95%EB%A6%AC/%EC%83%9D%EA%B0%81%EC%A0%95%EB%A6%AC)
+### .
+
 ### 생각정리
 
 ### 개발
