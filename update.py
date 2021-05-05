@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 import os
-
+from urllib import parse
 
 HEADER="""# 
 
@@ -10,9 +10,6 @@ HEADER="""#
 https://jjester.tistory.com/
 
 블로그 글 저장소
-
-## C#
-- [C#](https://github.com/HanJaeJoon/Blog_Contents/tree/main/C%23)
 
 ---
 
@@ -33,7 +30,7 @@ def main():
                     pass
             continue
 
-        category = os.path.basename(root)
+        category = parse.urlencode(os.path.basename(root), doseq=True)
 
         content += "### {}\n\n".format(category)
 
