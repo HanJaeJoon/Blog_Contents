@@ -23,7 +23,7 @@ def main():
     for root, dirs, files in os.walk("."):
         dirs.sort()
         if root == '.':
-            for dir in ('.git', '.github', 'images'):
+            for dir in ('.git', '.github'):
                 try:
                     dirs.remove(dir)
                 except ValueError:
@@ -31,6 +31,9 @@ def main():
             continue
 
         category = os.path.basename(root)
+        
+        if category == 'images':
+            continue
 
         for file in files:
             content += "- [{}]({})\n".format(category, parse.quote(os.path.join(root, file)))
