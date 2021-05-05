@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
 import os
-from urllib import parse
 
 HEADER="""# 
 
@@ -30,14 +29,14 @@ def main():
                     pass
             continue
 
-        category = os.path.basename(root)
+        category = os.path.dir(root)
 
         content += "### {}\n\n".format(category)
 
         for file in files:
             name = os.path.basename(file).split('.')[0]
             name = " ".join(word.capitalize() for word in name.split('-'))
-            content += "- [{}]({})\n".format(name, parse.urlencode(os.path.join(category, file)))
+            content += "- [{}]({})\n".format(name, os.path.join(category, file))
         content += "\n"
 
     with open("README.md", "w") as fd:
