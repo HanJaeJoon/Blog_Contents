@@ -32,14 +32,21 @@ def main():
 
         category = os.path.basename(root)
         
+        if category == 'images':
+            continue
+        
         directory = os.path.basename(os.path.dirname(root))
+        
+        if directory == '.':
+            continue
+            
+        if directory == category:
+            content += "### [{}]({})\n".format(category, parse.quote(os.path.join(root, file)))
+            continue
         
         if directory not in directories:
             content += "### {}\n".format(directory)
             directories.append(directory)
-        
-        if category == 'images':
-            continue
 
         for file in files:
             content += "- [{}]({})\n".format(category, parse.quote(os.path.join(root, file)))
