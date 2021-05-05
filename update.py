@@ -32,7 +32,7 @@ def main():
 
         category = os.path.basename(root)
         
-        directory = os.path.dirname(root)
+        directory = os.path.dirname(root).rsplit('/', 1)[1]
         
         if directory not in directories:
             content += "### {}\n".format(directory)
