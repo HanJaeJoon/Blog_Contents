@@ -34,7 +34,7 @@ def main():
         content += "### {}\n\n".format(category)
 
         for file in files:
-            content += "- [{}]({})\n".format(category, os.path.join(category, dir, file))
+            content += "- [{}]({})\n".format(category, os.path.join(root, category, file))
         content += "\n"
 
     with open("README.md", "w") as fd:
