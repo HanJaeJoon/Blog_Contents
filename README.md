@@ -7,7 +7,6 @@ https://jjester.tistory.com/
 
 ---
 ### [C#](./C%23/README.md)
-### C#
 - [1_프로그래밍_언어](./C%23/1_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%96%B8%EC%96%B4/README.md)
 
 - [2_Hello_World](./C%23/2_Hello_World/README.md)
