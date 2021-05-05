@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 import os
+from urllib import parse
 
 HEADER="""# 
 
@@ -22,7 +23,7 @@ def main():
     for root, dirs, files in os.walk("."):
         dirs.sort()
         if root == '.':
-            for dir in ('.git', '.github'):
+            for dir in ('.git', '.github', 'images'):
                 try:
                     dirs.remove(dir)
                 except ValueError:
@@ -32,7 +33,7 @@ def main():
         category = os.path.basename(root)
 
         for file in files:
-            content += "- [{}]({})\n".format(category, os.path.join(root, file))
+            content += "- [{}]({})\n".format(category, parse.quote(os.path.join(root, file)))
         content += "\n"
 
     with open("README.md", "w") as fd:
