@@ -41,7 +41,7 @@ def main():
             name = os.path.basename(file).split('.')[0]
             name = " ".join(word.capitalize() for word in name.split('-'))
             content += "- [{}]({})\n".format(name, os.path.join(category, file))
-        content += "\n---"
+        content += "\n"
 
     with open("README.md", "w") as fd:
         fd.write(content)
