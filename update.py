@@ -30,7 +30,7 @@ def main():
                     pass
             continue
 
-        category = parse.urlencode(os.path.basename(root), doseq=True)
+        category = parse.urlencode(os.path.basename(root))
 
         content += "### {}\n\n".format(category)
 
