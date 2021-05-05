@@ -38,7 +38,7 @@ def main():
         directory = os.path.basename(os.path.dirname(root))
         
         if directory == '.':
-            content += "### [{}]({})\n".format(category, parse.quote(os.path.join(root, file)))
+            content += "### [{}]({})\n".format(category, parse.quote(os.path.join(root, category)))
             continue
         
         if directory not in directories:
