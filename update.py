@@ -37,10 +37,12 @@ def main():
         
         directory = os.path.basename(os.path.dirname(root))
         
-        if directory == '.' and len(files) == 1:
-            content += "### [{}]({})\n".format(category, parse.quote(os.path.join(root, files[0])))
+        if directory == '.':
+            if len(files) == 1:
+                content += "### [{}]({})\n".format(category, parse.quote(os.path.join(root, files[0])))
             continue
-        elif directory not in directories:
+            
+        if directory not in directories:
             content += "### {}\n".format(directory)
             directories.append(directory)
 
