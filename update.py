@@ -4,7 +4,6 @@ import os
 from urllib import parse
 
 HEADER="""# 
-
 # Blog_Contents
 
 https://jjester.tistory.com/
@@ -12,13 +11,14 @@ https://jjester.tistory.com/
 블로그 글 저장소
 
 ---
-
 """
 
 
 def main():
     content = ""
     content += HEADER
+    
+    directories = [];
 
     for root, dirs, files in os.walk("."):
         dirs.sort()
@@ -31,6 +31,12 @@ def main():
             continue
 
         category = os.path.basename(root)
+        
+        directory = os.path.dir(root)
+        
+        if directory not in directories:
+            content += "### {}\n".format(directory)
+            directories.append(directory)
         
         if category == 'images':
             continue
