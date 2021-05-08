@@ -26,10 +26,10 @@
    나의 사수: 주간보고를 위한 종합 용도의 게시판 개발, 팀내에서 이후로도 계속 사용함.<br>
    나: 토이 프로젝트 생략, 바로 업무투입(다국어 작업으로 거의 모든 제품의 프론트 소스를 보게 됨)<br>
    나의 후임: IE, PC 지원 제품 -> 태블릿, PC 동시 지원 가능하고 Multi browser 지원 가능한 제품 제작(나와 Pair Programming)<br>
-   [.NET Page Life Cycle](https://docs.microsoft.com/en-us/previous-versions/aspnet/ms178472(v=vs.100))<br>
    [Application Life Cycle](https://docs.microsoft.com/en-us/previous-versions/dotnet/netframework-3.0/ms178473(v=vs.85)?redirectedfrom=MSDN)<br>
-   [Web API Life Cycle](https://www.dotnetcurry.com/aspnet/888/aspnet-webapi-message-lifecycle)<br>
-   [Web API Life Cycle](https://www.asp.net/media/4071077/aspnet-web-api-poster.pdf)<br>
+   [.NET Page Life Cycle](https://docs.microsoft.com/en-us/previous-versions/aspnet/ms178472(v=vs.100))<br>
+   [Web API Life Cycle1](https://www.dotnetcurry.com/aspnet/888/aspnet-webapi-message-lifecycle)<br>
+   [Web API Life Cycle2](https://www.asp.net/media/4071077/aspnet-web-api-poster.pdf)<br>
 
    -> 처음 접하는 .NET 프레임워크에 대한 이해 증진 가능할듯. 필수
 
