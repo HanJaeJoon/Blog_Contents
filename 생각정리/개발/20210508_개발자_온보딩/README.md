@@ -31,8 +31,8 @@
    [Web API Life Cycle1](https://www.dotnetcurry.com/aspnet/888/aspnet-webapi-message-lifecycle)<br>
    [Web API Life Cycle2](https://www.asp.net/media/4071077/aspnet-web-api-poster.pdf)<br>
 
-   -> 처음 접하는 .NET 프레임워크에 대한 이해 증진 가능할듯. 필수
-   -> 멀티쓰레드로 진행할 예정
+   -> 처음 접하는 .NET 프레임워크에 대한 이해 증진 가능할듯. 필수<br>
+   -> 멀티쓰레드로 게시판을 만드는  진행할 예정
 
 3. 쿼리 튜닝
    
