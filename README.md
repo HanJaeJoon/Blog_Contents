@@ -34,6 +34,8 @@ https://jjester.tistory.com/
 
 - [20210524_Github_action](./%EC%83%9D%EA%B0%81%EC%A0%95%EB%A6%AC/%EA%B0%9C%EB%B0%9C/20210524_Github_action/README.md)
 
+- [20210525_Notion_Web_Clipper](./%EC%83%9D%EA%B0%81%EC%A0%95%EB%A6%AC/%EA%B0%9C%EB%B0%9C/20210525_Notion_Web_Clipper/README.md)
+
 
 ### 일상
 - [20210516_머니게임](./%EC%83%9D%EA%B0%81%EC%A0%95%EB%A6%AC/%EC%9D%BC%EC%83%81/20210516_%EB%A8%B8%EB%8B%88%EA%B2%8C%EC%9E%84/README.md)
