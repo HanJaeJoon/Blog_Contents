@@ -13,6 +13,11 @@ https://jjester.tistory.com/
 
 - [3_가비지_콜렉터](./C%23/3_%EA%B0%80%EB%B9%84%EC%A7%80_%EC%BD%9C%EB%A0%89%ED%84%B0/README.md)
 
+### Django
+- [20210626_스파르타코딩_Django_preview](./Django/20210626_%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80%EC%BD%94%EB%94%A9_Django_preview/README.md)
+
+- [20210627_스파르타코딩_Django_2주차](./Django/20210627_%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80%EC%BD%94%EB%94%A9_Django_2%EC%A3%BC%EC%B0%A8/README.md)
+
 ### 생각정리
 
 ### 개발
@@ -49,8 +54,6 @@ https://jjester.tistory.com/
 - [20210611_RSS_피드_구독](./%EC%83%9D%EA%B0%81%EC%A0%95%EB%A6%AC/%EA%B0%9C%EB%B0%9C/20210611_RSS_%ED%94%BC%EB%93%9C_%EA%B5%AC%EB%8F%85/README.md)
 
 - [20210612_HTTP_status_cats](./%EC%83%9D%EA%B0%81%EC%A0%95%EB%A6%AC/%EA%B0%9C%EB%B0%9C/20210612_HTTP_status_cats/README.md)
-
-- [20210626_스파르타코딩클럽_Django_2주차_preview](./%EC%83%9D%EA%B0%81%EC%A0%95%EB%A6%AC/%EA%B0%9C%EB%B0%9C/20210626_%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80%EC%BD%94%EB%94%A9%ED%81%B4%EB%9F%BD_Django_2%EC%A3%BC%EC%B0%A8_preview/README.md)
 
 
 ### 일상
