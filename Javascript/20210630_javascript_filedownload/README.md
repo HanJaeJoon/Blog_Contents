@@ -43,7 +43,7 @@ response.Content.Headers.ContentType = new MediaTypeHeaderValue("application/oct
 return response;
 ```
 
-정상적으로 response를 받았다면 done() callback에서 첫 번째 parameter로 BLOB 객체를 가져올 수 있다.  
+정상적으로 response를 받았다면 done() callback에서 첫 번째 parameter로 Blob 객체를 가져올 수 있다.  
 
 ```
 .done(function (blob, status, xhr) {});
