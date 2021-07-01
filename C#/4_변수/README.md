@@ -22,3 +22,22 @@ float 리터럴 접미사 f
 double은 접미사 없음  
 decimal 리터럴 접미사 m  
 
+### object의 박싱, 언박싱
+
+object는 모든 데이터 타입의 조상 클래스  
+박싱: 값 형식 데이터를 힙에 할당하기 위한 기능  
+언박싱: 힙에 할당된 데이터를 값 형식 변수에 저장하는 기능  
+
+### nullable type
+
+HasValue, Value 로 값이 있는지 확인, 값 확인 가능
+
+### CTS(Common Type System)
+
+다른 프로그래밍 언어와의 호환성을 갖도록 하는 Type을 지원함.  
+제품 소스코드에 가끔 보이는 Int32, Int64 C++에서 사용되는 형식이다.  
+
+### 문자열 보간
+
+내가 그동안 리터럴 템플릿이라고 했던 것이 문자열 보간이었다. 😮  
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/tokens/interpolated
