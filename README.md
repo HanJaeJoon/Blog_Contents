@@ -13,6 +13,8 @@ https://jjester.tistory.com/
 
 - [3_가비지_콜렉터](./C%23/3_%EA%B0%80%EB%B9%84%EC%A7%80_%EC%BD%9C%EB%A0%89%ED%84%B0/README.md)
 
+- [4_변수](./C%23/4_%EB%B3%80%EC%88%98/README.md)
+
 ### Django
 - [20210626_스파르타코딩_Django_preview](./Django/20210626_%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80%EC%BD%94%EB%94%A9_Django_preview/README.md)
 
