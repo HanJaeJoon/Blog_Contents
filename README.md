@@ -6,17 +6,13 @@ https://jjester.tistory.com/
 블로그 글 저장소
 
 ---
-### [C#](./C%23/README.md)
-- [1_프로그래밍_언어](./C%23/1_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%96%B8%EC%96%B4/README.md)
-
-- [2_Hello_World](./C%23/2_Hello_World/README.md)
-
-- [3_가비지_콜렉터](./C%23/3_%EA%B0%80%EB%B9%84%EC%A7%80_%EC%BD%9C%EB%A0%89%ED%84%B0/README.md)
-
 ### Django
 - [20210626_스파르타코딩_Django_preview](./Django/20210626_%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80%EC%BD%94%EB%94%A9_Django_preview/README.md)
 
 - [20210627_스파르타코딩_Django_2주차](./Django/20210627_%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80%EC%BD%94%EB%94%A9_Django_2%EC%A3%BC%EC%B0%A8/README.md)
+
+### Javascript
+- [20210630_javascript_filedownload](./Javascript/20210630_javascript_filedownload/README.md)
 
 ### 생각정리
 
@@ -71,7 +67,7 @@ https://jjester.tistory.com/
 
 - [20210619_삼척_여행과_인사평가](./%EC%83%9D%EA%B0%81%EC%A0%95%EB%A6%AC/%EC%9D%BC%EC%83%81/20210619_%EC%82%BC%EC%B2%99_%EC%97%AC%ED%96%89%EA%B3%BC_%EC%9D%B8%EC%82%AC%ED%8F%89%EA%B0%80/README.md)
 
-- [20210620_삼척여행_1](./%EC%83%9D%EA%B0%81%EC%A0%95%EB%A6%AC/%EC%9D%BC%EC%83%81/20210620_%EC%82%BC%EC%B2%99%EC%97%AC%ED%96%89_1/README.md)
+- [20210630_코로나_검사](./%EC%83%9D%EA%B0%81%EC%A0%95%EB%A6%AC/%EC%9D%BC%EC%83%81/20210630_%EC%BD%94%EB%A1%9C%EB%82%98_%EA%B2%80%EC%82%AC/README.md)
 
 
 ### 투자
@@ -96,4 +92,18 @@ https://jjester.tistory.com/
 - [20210522_2020_하반기_회고](./%EC%83%9D%EA%B0%81%EC%A0%95%EB%A6%AC/%ED%9A%8C%EA%B3%A0/20210522_2020_%ED%95%98%EB%B0%98%EA%B8%B0_%ED%9A%8C%EA%B3%A0/README.md)
 
 - [20210615_2021_상반기_회고](./%EC%83%9D%EA%B0%81%EC%A0%95%EB%A6%AC/%ED%9A%8C%EA%B3%A0/20210615_2021_%EC%83%81%EB%B0%98%EA%B8%B0_%ED%9A%8C%EA%B3%A0/README.md)
+
+### 책정리
+- [C#7 AND .NET CORE 2.X BLUEPRINT](./%EC%B1%85%EC%A0%95%EB%A6%AC/C%237%20AND%20.NET%20CORE%202.X%20BLUEPRINT/README.md)
+
+- [이것이C#이다](./%EC%B1%85%EC%A0%95%EB%A6%AC/%EC%9D%B4%EA%B2%83%EC%9D%B4C%23%EC%9D%B4%EB%8B%A4/README.md)
+
+### 이것이C#이다
+- [1_프로그래밍_언어](./%EC%B1%85%EC%A0%95%EB%A6%AC/%EC%9D%B4%EA%B2%83%EC%9D%B4C%23%EC%9D%B4%EB%8B%A4/1_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%96%B8%EC%96%B4/README.md)
+
+- [2_Hello_World](./%EC%B1%85%EC%A0%95%EB%A6%AC/%EC%9D%B4%EA%B2%83%EC%9D%B4C%23%EC%9D%B4%EB%8B%A4/2_Hello_World/README.md)
+
+- [3_가비지_콜렉터](./%EC%B1%85%EC%A0%95%EB%A6%AC/%EC%9D%B4%EA%B2%83%EC%9D%B4C%23%EC%9D%B4%EB%8B%A4/3_%EA%B0%80%EB%B9%84%EC%A7%80_%EC%BD%9C%EB%A0%89%ED%84%B0/README.md)
+
+- [4_변수](./%EC%B1%85%EC%A0%95%EB%A6%AC/%EC%9D%B4%EA%B2%83%EC%9D%B4C%23%EC%9D%B4%EB%8B%A4/4_%EB%B3%80%EC%88%98/README.md)
 
