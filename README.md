@@ -11,6 +11,8 @@ https://jjester.tistory.com/
 
 - [20210627_스파르타코딩_Django_2주차](./Django/20210627_%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80%EC%BD%94%EB%94%A9_Django_2%EC%A3%BC%EC%B0%A8/README.md)
 
+- [20210703_스파르타코딩_Django_3주차](./Django/20210703_%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80%EC%BD%94%EB%94%A9_Django_3%EC%A3%BC%EC%B0%A8/README.md)
+
 ### Javascript
 - [20210630_javascript_filedownload](./Javascript/20210630_javascript_filedownload/README.md)
 
