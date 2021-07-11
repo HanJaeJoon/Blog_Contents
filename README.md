@@ -15,6 +15,8 @@ https://jjester.tistory.com/
 
 - [20210703_스파르타코딩_Django_4주차](./Django/20210703_%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80%EC%BD%94%EB%94%A9_Django_4%EC%A3%BC%EC%B0%A8/README.md)
 
+- [20210703_스파르타코딩_Django_5주차](./Django/20210703_%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80%EC%BD%94%EB%94%A9_Django_5%EC%A3%BC%EC%B0%A8/README.md)
+
 ### Javascript
 - [20210630_javascript_filedownload](./Javascript/20210630_javascript_filedownload/README.md)
 
@@ -102,6 +104,8 @@ https://jjester.tistory.com/
 
 ### C#7 AND .NET CORE 2.X BLUEPRINT
 - [OOP](./%EC%B1%85%EC%A0%95%EB%A6%AC/C%237%20AND%20.NET%20CORE%202.X%20BLUEPRINT/OOP/README.md)
+
+- [개발 7년차, 매니저 1일차](./%EC%B1%85%EC%A0%95%EB%A6%AC/%EA%B0%9C%EB%B0%9C%207%EB%85%84%EC%B0%A8%2C%20%EB%A7%A4%EB%8B%88%EC%A0%80%201%EC%9D%BC%EC%B0%A8/README.md)
 
 - [이것이C#이다](./%EC%B1%85%EC%A0%95%EB%A6%AC/%EC%9D%B4%EA%B2%83%EC%9D%B4C%23%EC%9D%B4%EB%8B%A4/README.md)
 
