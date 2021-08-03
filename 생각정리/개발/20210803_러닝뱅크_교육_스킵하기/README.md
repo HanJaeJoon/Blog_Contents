@@ -24,8 +24,8 @@ function setCookie(name,value,expire,path){
 }
 
 function study(a) {
-    setCookie("pPage",'1' + a); // class 1, page 1
-    movepg(a); // move to page 2
+    setCookie("pPage", a);
+    movepg(a);
 }
 
 var idx = 2;
