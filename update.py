@@ -32,7 +32,7 @@ def main():
 
         category = os.path.basename(root)
         
-        if category == 'images':
+        if category == 'images' or category == 'files':
             continue
         
         directory = os.path.basename(os.path.dirname(root))
