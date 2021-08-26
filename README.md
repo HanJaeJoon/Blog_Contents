@@ -17,6 +17,11 @@ https://jjester.tistory.com/
 
 - [20210703_스파르타코딩_Django_5주차](./Django/20210703_%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80%EC%BD%94%EB%94%A9_Django_5%EC%A3%BC%EC%B0%A8/README.md)
 
+### DotNet
+- [20210826_AWS_EC2_Ubuntu_인스턴스_생성하기](./DotNet/20210826_AWS_EC2_Ubuntu_%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4_%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0/README.md)
+
+- [20210827_AWS_EC2로_Blazor_Server_배포하기](./DotNet/20210827_AWS_EC2%EB%A1%9C_Blazor_Server_%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0/README.md)
+
 ### Javascript
 - [20210630_javascript_filedownload](./Javascript/20210630_javascript_filedownload/README.md)
 
