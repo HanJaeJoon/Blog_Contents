@@ -22,6 +22,8 @@ https://jjester.tistory.com/
 
 - [20210827_AWS_EC2로_Blazor_Server_배포하기](./DotNet/20210827_AWS_EC2%EB%A1%9C_Blazor_Server_%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0/README.md)
 
+- [20210903_Azure_Blazor_Server_배포하기](./DotNet/20210903_Azure_Blazor_Server_%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0/README.md)
+
 ### Javascript
 - [20210630_javascript_filedownload](./Javascript/20210630_javascript_filedownload/README.md)
 
