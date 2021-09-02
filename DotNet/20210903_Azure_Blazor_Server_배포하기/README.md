@@ -13,7 +13,7 @@ App Service가 없다면 `+` 버튼을 클릭하면 자동으로 생성된다.
 ![](./images/3.png)
 
 4. 오잉? Github Action으로 CI/CD를 설정해준다...! 해보자.  
-`Finish`를 클릭한다.
+`Finish`를 클릭한다.  
 ![](./images/4.png)
 
 5. Service Dependencies 섹션에 Azure SignalR Service를 설정한다.
