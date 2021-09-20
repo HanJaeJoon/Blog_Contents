@@ -1,4 +1,4 @@
-# SQL 대량 Insert하기(SqlBulkCopy.WriteToServer)
+# [.NET] 대량 데이터 Insert하기(SqlBulkCopy.WriteToServer)
 
 최근 결제 모듈의 성능을 개선하는 업무를 하고있다.  
 기존의 방식은 몇 만건이 되는 결제를 1건에 1번씩 결제 API를 호출하는 방식이었다.  
