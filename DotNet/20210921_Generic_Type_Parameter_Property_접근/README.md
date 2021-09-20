@@ -1,4 +1,4 @@
-# [.NET] Generic Method의 T(Template) Property 접근하기
+# [.NET] Generic Method의 T(Type Parameter) Property 접근하기
 
 Generic Method를 생성했는데 T.Property로 접근할 수 없다.  
 다음과 같은 컴파일 에러가 발생한다.  
