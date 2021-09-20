@@ -24,6 +24,8 @@ https://jjester.tistory.com/
 
 - [20210903_Azure_Blazor_Server_배포하기](./DotNet/20210903_Azure_Blazor_Server_%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0/README.md)
 
+- [20210920_SQL_대량_Insert](./DotNet/20210920_SQL_%EB%8C%80%EB%9F%89_Insert/README.md)
+
 ### Javascript
 - [20210630_javascript_filedownload](./Javascript/20210630_javascript_filedownload/README.md)
 
