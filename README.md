@@ -26,6 +26,8 @@ https://jjester.tistory.com/
 
 - [20210920_SQL_대량_Insert](./DotNet/20210920_SQL_%EB%8C%80%EB%9F%89_Insert/README.md)
 
+- [20210921_Generic_Template_Property](./DotNet/20210921_Generic_Template_Property/README.md)
+
 ### Javascript
 - [20210630_javascript_filedownload](./Javascript/20210630_javascript_filedownload/README.md)
 
