@@ -26,7 +26,9 @@ https://jjester.tistory.com/
 
 - [20210920_SQL_대량_Insert](./DotNet/20210920_SQL_%EB%8C%80%EB%9F%89_Insert/README.md)
 
-- [20210921_Generic_Template_Property](./DotNet/20210921_Generic_Template_Property/README.md)
+- [20210921_Generic_Type_Parameter_Property_접근](./DotNet/20210921_Generic_Type_Parameter_Property_%EC%A0%91%EA%B7%BC/README.md)
+
+- [20210922_Dapper_사용시_주의점](./DotNet/20210922_Dapper_%EC%82%AC%EC%9A%A9%EC%8B%9C_%EC%A3%BC%EC%9D%98%EC%A0%90/README.md)
 
 ### Javascript
 - [20210630_javascript_filedownload](./Javascript/20210630_javascript_filedownload/README.md)
