@@ -173,6 +173,10 @@ https://jjester.tistory.com/
 
 - [데이터_중심_애플리케이션_설계](./%EC%B1%85%EC%A0%95%EB%A6%AC/%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%A4%91%EC%8B%AC_%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98_%EC%84%A4%EA%B3%84/README.md)
 
+
+### 월가의 영웅들
+- [1_투자준비](./%EC%B1%85%EC%A0%95%EB%A6%AC/%EC%9B%94%EA%B0%80%EC%9D%98%20%EC%98%81%EC%9B%85%EB%93%A4/1_%ED%88%AC%EC%9E%90%EC%A4%80%EB%B9%84/README.md)
+
 - [이것이C#이다](./%EC%B1%85%EC%A0%95%EB%A6%AC/%EC%9D%B4%EA%B2%83%EC%9D%B4C%23%EC%9D%B4%EB%8B%A4/README.md)
 
 ### 이것이C#이다
