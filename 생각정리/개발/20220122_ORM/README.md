@@ -9,8 +9,8 @@
 
 ### Dapper
 우리가 사용 중인 Dapper.
-- <T>로 제공받은 model class를 반환
-- model class 데이터 타입과 호환되지 않으면 에러 발생
+- `<T>`로 제공받은 model class를 반환
+- model class 데이터 타입과 호환되지 않으면 에러 발생  
 => 오히려 장점임(오히려 좋아!). strong typing이 가능하다.
 - SQL에 대한 이해가 필요하다.
 - SQL Server에서 prepared query로 인식 => injection 예방
@@ -27,4 +27,4 @@
 조회(SELECT)로 테스트
 - Dapper가 전반적인 성능이 가장 좋았다.  
 - 1000건 까지 거의 차이 없었다.  
-= 2000건 넘으면 EF의 duration이 커졌다.  
+- 2000건 넘으면 EF의 duration이 커졌다.  
