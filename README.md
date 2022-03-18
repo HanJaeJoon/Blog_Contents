@@ -30,6 +30,8 @@ https://jjester.tistory.com/
 
 - [20210922_Dapper_사용시_주의점](./DotNet/20210922_Dapper_%EC%82%AC%EC%9A%A9%EC%8B%9C_%EC%A3%BC%EC%9D%98%EC%A0%90/README.md)
 
+- [20220318_FormData_ajax_example](./DotNet/20220318_FormData_ajax_example/README.md)
+
 ### Javascript
 - [20210630_javascript_filedownload](./Javascript/20210630_javascript_filedownload/README.md)
 
