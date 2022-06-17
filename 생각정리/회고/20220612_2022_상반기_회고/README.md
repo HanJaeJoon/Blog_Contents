@@ -57,3 +57,16 @@ MVC 구조 적용을 진행하면서 동시에 나는 .NET 6 업그레이드를 
 공통 Layout과 partial view 먼저 변환하고 나머지 약 300개의 페이지들을 신입 개발자 2명과 함께 전환했고 드디어 6월에 완료해서 기념으로 개발팀 회식까지 진행했다.  
 
 과거에 window scheduler로 호출하던 부분도 Azure functions로 모두 전환되었고 API를 code behind에서 처리했던 부분도 Web API Controller로 모두 전환해서 모두 json으로 통신할 수 있도록 변경되었다. 속이 다 시원하다.  
+
+### 6월: Nested Transaction
+
+`BeginTransaction()`을 이용해서 transaction을 시작한 상태에서 한 번 더 transaction을 시작하면 MSDTC escalation이 발생한다.  
+운영상의 이유로 MSDTC를 사용하지 않은 상태에서 Nested Transaction을 구현하는 것이 목표였다.  
+
+`TransactionScope` 라는 대안이 있었다. nested해서 사용할 수 있다고 해서 테스트해봤는데 결국에는 connection이 다르게 되면 MSDTC escalation이 발생한다.  
+
+어떻게 하면 좋을까 고민하던 중에 기본으로 돌아가보자는 생각이 들었다.  
+`Rollback()` 의 overloads 중에 checkpoint로 롤백하는 구조가 있었다.  
+
+이 checkpoint 기능과 TransactionScope를 융합해서 새로운 Nested Transaction이 가능한 객체를 만들었다.  
+제품에 점점 적용하고 있다.
